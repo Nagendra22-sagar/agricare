@@ -161,7 +161,6 @@ def fertilizer_recommendation():
             
             # Get the prediction from the model
             prediction = fertilizer_model.predict([data])
-            
             # Log the prediction
             logger.info(f"Fertilizer recommendation data: {data} | Prediction: {prediction[0]}")
             
