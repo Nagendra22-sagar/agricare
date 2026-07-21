@@ -1,9 +1,5 @@
 #  AgriCare AI - A Comprehensive Web Platform for Smart Farming Decisions
 
-##  Home Page
-
-![Home Page](images/Home.png)
-
 ##  Overview
 
 AgriCare AI is an AI-powered smart farming platform that helps farmers make informed agricultural decisions using Machine Learning and Deep Learning techniques. The application integrates Crop Recommendation, Fertilizer Recommendation, and Plant Disease Detection into a single web platform, reducing dependency on multiple tools while improving farming productivity and sustainability.
@@ -23,11 +19,10 @@ AgriCare AI is an AI-powered smart farming platform that helps farmers make info
 
 ---
 
-#  System Architecture
+##  Home Page
 
-<p align="center">
-<img src="images/Architecture.png" width="900">
-</p>
+![Home Page](images/Home.png)
+
 
 The application consists of three intelligent modules:
 
