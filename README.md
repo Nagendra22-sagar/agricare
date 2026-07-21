@@ -1,29 +1,29 @@
-# 🌾 AgriCare AI - A Comprehensive Web Platform for Smart Farming Decisions
+#  AgriCare AI - A Comprehensive Web Platform for Smart Farming Decisions
 
 <p align="center">
   <img src="images/Home.png" width="900">
 </p>
 
-## 📖 Overview
+##  Overview
 
 AgriCare AI is an AI-powered smart farming platform that helps farmers make informed agricultural decisions using Machine Learning and Deep Learning techniques. The application integrates Crop Recommendation, Fertilizer Recommendation, and Plant Disease Detection into a single web platform, reducing dependency on multiple tools while improving farming productivity and sustainability.
 
 ---
 
-# 🚀 Features
+#  Features
 
-- 🌱 Crop Recommendation using Random Forest
-- 🌿 Fertilizer Recommendation using Random Forest
-- 🍃 Plant Disease Detection using CNN (PyTorch)
-- 👤 Secure User Authentication
-- 📊 AI-powered decision support
-- 🛒 Treatment recommendations with purchase links
-- 💾 MySQL Database Integration
-- 🌐 Responsive Flask Web Application
+-  Crop Recommendation using Random Forest
+-  Fertilizer Recommendation using Random Forest
+-  Plant Disease Detection using CNN (PyTorch)
+-  Secure User Authentication
+-  AI-powered decision support
+-  Treatment recommendations with purchase links
+-  MySQL Database Integration
+-  Responsive Flask Web Application
 
 ---
 
-# 🏗 System Architecture
+#  System Architecture
 
 <p align="center">
 <img src="images/Architecture.png" width="900">
@@ -39,7 +39,7 @@ All modules are integrated into a Flask web application backed by a MySQL databa
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -53,7 +53,7 @@ All modules are integrated into a Flask web application backed by a MySQL databa
 
 ---
 
-# 🌱 Crop Recommendation
+#  Crop Recommendation
 
 The Crop Recommendation module predicts the **Top 5 suitable crops** based on
 
@@ -73,7 +73,7 @@ The best crop is highlighted with its confidence score.
 
 ---
 
-# 🌿 Fertilizer Recommendation
+#  Fertilizer Recommendation
 
 The Fertilizer Recommendation module predicts the most suitable fertilizers according to crop type and soil nutrient values.
 
@@ -89,7 +89,7 @@ The system provides
 
 ---
 
-# 🍃 Plant Disease Detection
+#  Plant Disease Detection
 
 The Disease Detection module uses a Convolutional Neural Network (CNN) to classify plant diseases from uploaded leaf images.
 
@@ -107,7 +107,7 @@ It provides
 
 ---
 
-# 📊 Prediction Results
+#  Prediction Results
 
 The application displays AI predictions together with confidence scores and treatment recommendations.
 
@@ -117,7 +117,7 @@ The application displays AI predictions together with confidence scores and trea
 
 ---
 
-# 🔐 Login & Registration
+#  Login & Registration
 
 Users can securely register and log in to access all farming services.
 
@@ -128,7 +128,7 @@ Users can securely register and log in to access all farming services.
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 AgriCare-AI
@@ -156,7 +156,7 @@ AgriCare-AI
 
 ---
 
-# ⚙ Installation
+#  Installation
 
 Clone the repository
 
@@ -184,7 +184,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 📈 Future Enhancements
+#  Future Enhancements
 
 - Weather API Integration
 - IoT Sensor Support
@@ -196,16 +196,16 @@ http://127.0.0.1:5000
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Nagendra V Sagar**
 
-📧 nagendravsagar22@gmail.com
+ nagendravsagar22@gmail.com
 
-💻 GitHub  
+ GitHub  
 https://github.com/Nagendra22-sagar
 
-🔗 LinkedIn  
+ LinkedIn  
 https://linkedin.com/in/nagendravsagar
 
 ---
