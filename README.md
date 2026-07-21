@@ -26,7 +26,8 @@ AgriCare AI is an AI-powered smart farming platform that helps farmers make info
 #  Login & Registration
 
 Users can securely register and log in to access all farming services.
-![Registration Page](images/Registration Page.png)
+
+![Registration Page](images/Registration Page.png).
 
 The application consists of three intelligent modules:
 
