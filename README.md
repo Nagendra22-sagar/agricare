@@ -102,8 +102,7 @@ The application displays AI predictions together with treatment recommendations.
 
 ![Plant_Disease_Detection_with_Description](images/Plant_Disease_Detection_with_Description.png)
 ![Plant_Disease_Detection_with_Description_and_supplements](images/Plant_Disease_Detection_with_Description_and_supplements.png)
-
-![Supplements_Buy_Page](images/Supplements_Buy_Page.png)
+![Supplements_Buy_Page ](images/Supplements_Buy_Page .png)
 
 
 #  Project Structure
