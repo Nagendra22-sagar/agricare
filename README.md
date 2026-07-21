@@ -4,7 +4,6 @@
 
 AgriCare AI is an AI-powered smart farming platform that helps farmers make informed agricultural decisions using Machine Learning and Deep Learning techniques. The application integrates Crop Recommendation, Fertilizer Recommendation, and Plant Disease Detection into a single web platform, reducing dependency on multiple tools while improving farming productivity and sustainability.
 
----
 
 #  Features
 
@@ -17,7 +16,6 @@ AgriCare AI is an AI-powered smart farming platform that helps farmers make info
 -  MySQL Database Integration
 -  Responsive Flask Web Application
 
----
 
 ##  Home Page
 
@@ -29,6 +27,9 @@ Users can securely register and log in to access all farming services.
 
 ![Registration_Page](images/Registration_Page.png)
 
+#  Welcome Page
+![Welcome_page](images/Welcome_page.png)
+
 The application consists of three intelligent modules:
 
 - Crop Recommendation
@@ -37,7 +38,6 @@ The application consists of three intelligent modules:
 
 All modules are integrated into a Flask web application backed by a MySQL database.
 
----
 
 #  Technology Stack
 
@@ -51,7 +51,6 @@ All modules are integrated into a Flask web application backed by a MySQL databa
 | Deep Learning | PyTorch, CNN |
 | Libraries | Pandas, NumPy, OpenCV, Pillow |
 
----
 
 #  Crop Recommendation
 
@@ -67,11 +66,8 @@ The Crop Recommendation module predicts the **Top 5 suitable crops** based on
 
 The best crop is highlighted with its confidence score.
 
-<p align="center">
-<img src="images/Crop-Recommendation.png" width="900">
-</p>
-
----
+![Crop_input](images/Crop_input.png)
+![Crop_output](images/Crop_output.png)
 
 #  Fertilizer Recommendation
 
@@ -83,11 +79,8 @@ The system provides
 - Confidence Scores
 - Best Recommendation
 
-<p align="center">
-<img src="images/Fertilizer-Recommendation.png" width="900">
-</p>
-
----
+![Fertilize_input](images/Fertilize_input.png)
+![Fertilize_output](images/Fertilize_output.png)
 
 #  Plant Disease Detection
 
@@ -101,21 +94,15 @@ It provides
 - Recommended Supplements
 - Product Purchase Links
 
-<p align="center">
-<img src="images/Disease-Detection.png" width="900">
-</p>
-
----
+![Plant_Disease_Detection](images/Plant_Disease_Detection.png)
 
 #  Prediction Results
 
-The application displays AI predictions together with confidence scores and treatment recommendations.
+The application displays AI predictions together with treatment recommendations.
 
-<p align="center">
-<img src="images/Prediction-Results.png" width="900">
-</p>
-
----
+![Plant_Disease_Detection_with_Description](images/Plant_Disease_Detection_with_Description.png)
+![Plant_Disease_Detection_with_Description_and_supplements](images/Plant_Disease_Detection_with_Description_and_supplements.png)
+![Supplements_Buy_Page](images/Supplements_Buy_Page.png)
 
 
 #  Project Structure
@@ -144,7 +131,6 @@ AgriCare-AI
 └── README.md
 ```
 
----
 
 #  Installation
 
