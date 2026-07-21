@@ -1,8 +1,8 @@
 #  AgriCare AI - A Comprehensive Web Platform for Smart Farming Decisions
 
-<p align="center">
-  <img src="C:\Users\User\Pictures\Screenshots\Home.png"" width="900">
-</p>
+##  Home Page
+
+![Home Page](images/Home.png)
 
 ##  Overview
 
